@@ -1,0 +1,24 @@
+{
+  "name": "gramyatra-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A responsive, real-time public transport tracking web application for the Smart India Hackathon.",
+  "scripts": {
+    "start": "echo \"Error: no start script specified\" && exit 1",
+    "build": "echo \"Error: no build script specified\" && exit 1",
+    "test": "echo \"Error: no test script specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google/genai": "latest",
+    "leaflet": "^1.9.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-leaflet": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.12",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.2"
+  }
+}
