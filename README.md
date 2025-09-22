@@ -1,7 +1,5 @@
 # GramYatra: Real-Time Rural Bus Tracking 🇮🇳
 
-![GramYatra Welcome Screen](https://i.imgur.com/g0cZc8X.png)
-
 **GramYatra** is an AI-powered, multilingual web application designed to revolutionize public transport in rural India. It provides real-time bus tracking, journey planning, fare estimation, and a suite of other features to empower commuters and drivers alike. This project was built with a focus on accessibility, ease of use, and leveraging modern AI to solve real-world problems.
 
 ---
@@ -121,6 +119,6 @@ This project is licensed under the MIT License.
 [![Author](https://img.shields.io/badge/Author-Chirag%20O-blue.svg)](https://github.com/Chirag-O2004)
 [![Author](https://img.shields.io/badge/Author-Durga_Prasadh%20K-blue.svg)](https://github.com/KDurgaPrasad116)
 [![Author](https://img.shields.io/badge/Author-Jai_Keerthana%20S-blue.svg)](https://github.com/JaiKeerthanaS)
-[![Author](https://img.shields.io/badge/Author-Kalashree%20R%20M-blue.svg)](https://github.com/KalashreeRM))
+[![Author](https://img.shields.io/badge/Author-Kalashree%20R%20M-blue.svg)](https://github.com/KalashreeRM)
 [![Author](https://img.shields.io/badge/Author-Karthik%20S%20B-blue.svg)](https://github.com/Karthik_s)
 [![Author](https://img.shields.io/badge/Author-Keerthan%20B%20M-blue.svg)](https://github.com/Keerthan2024)
